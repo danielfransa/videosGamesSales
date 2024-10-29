@@ -7,7 +7,7 @@ Nesta primeira etapa do projeto, realizamos a limpeza dos dados a partir de um a
 ## Objetivos
 
 Limpar e preparar o conjunto de dados para análises futuras.
-Examinar a quantidade de vendas e correlacionar com notas de críticos e avaliações de usuários.
+Examinar a quantidade de vendas.
 Identificar as principais plataformas, publishers e desenvolvedoras que impactaram o mercado ao longo das décadas.
 
 ## Pré-requisitos
